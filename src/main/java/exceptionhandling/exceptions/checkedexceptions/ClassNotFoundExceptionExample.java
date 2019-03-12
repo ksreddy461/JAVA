@@ -1,4 +1,4 @@
-package exceptionhandling.exceptions.checkedExceptions;
+package exceptionhandling.exceptions.checkedexceptions;
 
 public class ClassNotFoundExceptionExample {
 
